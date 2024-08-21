@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minjae J. Kim"
 title_separator          : "-"
 name                     : &name "Minjae J. Kim"
-description              : &description "NSF SBE postdoctoral fellow at Johns Hopkins"
+description              : &description "NSF SBE Postdoctoral Fellow at Johns Hopkins"
 url                      : https://minjaejkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minjaejkim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Minjae J. Kim"
   avatar           : "minjae.jpeg"
-  bio              : "NSF SBE postdoctoral fellow at Johns Hopkins"
+  bio              : "NSF SBE Postdoctoral Fellow at Johns Hopkins"
   location         : "Baltimore, MD"
   employer         :
   pubmed           : 
