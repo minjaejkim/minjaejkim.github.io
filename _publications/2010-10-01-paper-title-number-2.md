@@ -3,7 +3,7 @@ title: "Exploring the representaitonal similarity of trait knowledge using perce
 collection: publications
 category: manuscripts
 permalink: /publication/kim-socialcog-2022
-date: 2022
+date: 2022-01-01
 venue: 'Social Cognition'
 paperurl: 'http://minjaejkim.github.io/files/kim_socialcog_2022.pdf'
 citation: 'Kim, M., Young, L., & Anzellotti, S. (2022). &quot;Exploring the representaitonal similarity of trait knowledge using perceived similarity judgments.&quot; <i>Social Cognition, 40</i>(6), 549-579.'
