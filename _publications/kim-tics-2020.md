@@ -3,7 +3,7 @@ title: "The psychology of motivated versus rational impression updating"
 collection: publications
 category: manuscripts
 permalink: /publication/kim-tics-2020
-date: 2020
+date: 2020-01-01
 venue: 'Trends in Cognitive Sciences'
 paperurl: 'http://minjaejkim.github.io/files/kim_tics_2020.pdf'
 citation: 'Kim, M., Park, B., & Young, L. (2020). &quot;The psychology of motivated versus rational impression updating.&quot; <i>Trends in Cognitive Sciences, 24</i>(2), 101-111.'
