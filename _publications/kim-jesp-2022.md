@@ -3,7 +3,7 @@ title: "Reframing of moral dilemmas reveals an unexpected “positivity bias” 
 collection: publications
 category: manuscripts
 permalink: /publication/kim-jesp-2022
-date: 2022
+date: 2022-01-01
 venue: 'Journal of Experimental Social Psychology'
 paperurl: 'http://minjaejkim.github.io/files/kim_jesp_2022.pdf'
 citation: 'Kim, M.*, Theriault, J.*, Hirschfeld-Kroen, J., & Young, L. (2022). &quot;Reframing of moral dilemmas reveals an unexpected “positivity bias” in updating and attributions.&quot; <i>Journal of Experimental Social Psychology, 101</i>, 104310.'
