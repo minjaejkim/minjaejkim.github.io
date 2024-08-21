@@ -3,7 +3,7 @@ title: "Theory of Mind following the violation of strong and weak prior beliefs"
 collection: publications
 category: manuscripts
 permalink: /publication/kim-cercor-2021
-date: 2021
+date: 2021-01-01
 venue: 'Cerebral Cortex'
 paperurl: 'http://minjaejkim.github.io/files/kim_cercor_2021.pdf'
 citation: 'Kim, M., Mende-Siedlecki, P., Anzellotti, S., & Young, L. (2021). &quot;Theory of Mind following the violation of strong and weak prior beliefs.&quot; <i>Cerebral Cortex, 31</i>(2), 884-898.'
