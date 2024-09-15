@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+How do we explain, evaluate, and learn from other people’s behavior? How are these processes supported by mentalizing and affected by motivation? My research multiple approaches (behavioral, neuroimaging, developmental, computational) to understand causal attribution and dynamic impression formation.
 
-A data-driven personal website
+I am currently a postdoctoral fellow in the Dept. of Psychological & Brain Sciences at Johns Hopkins University. I received a PhD in Psychology & Neuroscience from Boston College, and a BA in Neuroscience from Swarthmore College.
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
